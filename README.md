@@ -8,5 +8,8 @@
   <li>randomForest</li>
 </ol>
 
+## Best Model Is
+### Random Forest
+Testing error = 0.1507
 ## Dataset
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
